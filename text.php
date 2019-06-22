@@ -1,1 +1,1 @@
-samples php
+samples php s
